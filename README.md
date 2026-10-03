@@ -1,4 +1,4 @@
-# ⟦ CyberTaskManager ⟧ — v6 (Linux/Arch)
+# ⟦ CyberTaskManager ⟧ — v6 (Linux/windows)
 
 Task Manager cyberpunk a tutto schermo, residente in system tray,
 attivabile con la scorciatoia **Win + Ctrl + T**. Versione adattata da
