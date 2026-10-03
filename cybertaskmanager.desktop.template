@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=CyberTaskManager
+Comment=Task Manager Cyberpunk a tutto schermo
+Exec=/PERCORSO/COMPLETO/CyberTaskManager/avvia.sh
+Terminal=false
+Categories=System;Monitor;
