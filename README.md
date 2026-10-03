@@ -122,6 +122,11 @@ avviata** (con `avvia.sh` o dal menu) perché la scorciatoia funzioni —
 esattamente come su Windows.
 
 ### Su GNOME
+DESCLAIMER:('fai in modo che l'app indicator funzioni. senno scarica con>
+            sudo apt install gnome-shell-extension-manager,
+            sudo apt install gnome-shell-extension-appindicator.
+            poi seleziona l'app extension e abilita l'appindicator(
+  
 1. Impostazioni → Tastiera → Scorciatoie da tastiera personalizzate →
    "+" (o "Vedi altro" → "Scorciatoie personalizzate").
 2. Nome: `CyberTaskManager Toggle`.
